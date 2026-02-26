@@ -1,5 +1,4 @@
 <img src="https://image.api.playstation.com/vulcan/img/rnd/202011/0216/2u1g62fD27U4bNf6f7bM2m5Y.png" alt="General Exilio Banner" width="100%">
-# GENERAL EXILIO | GOKHAN-2026
 > **CORE:** GLaDOS_Unit_1.0
 > **PROTOCOL:** IDENTIFY OR DISCONNECT
 
