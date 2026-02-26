@@ -2,7 +2,7 @@
   "name": "general-exilio-core",
   "version": "1.0.0",
   "description": "GOKHAN-2026 Security Engine",
-  "main": "src/ScamGuard.js",
+  "main": "src/core/ExileExecutioner.js",
   "dependencies": {
     "ethers": "^6.0.0"
   },
