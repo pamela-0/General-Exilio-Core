@@ -7,7 +7,7 @@
  */
 
 const glados = require("../terminal/GLaDOS_Voice");
-const NFCGatekeeper = require("../src/auth/src/auth/NFCGatekeeper");
+const NFCGatekeeper = require("../auth/NFCGatekeeper");
 const { ScamGuard } = require("../ScamGuard");
 
 class ExileExecutioner {
